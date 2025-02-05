@@ -1,4 +1,3 @@
-# Hate-Speech
 # Hate Speech/Offensive Language Detection
 This web application uses deep learning to detect hate speech and offensive language in text. Built
 with a microservices architecture, it offers scalable, real-time content moderation. The application
