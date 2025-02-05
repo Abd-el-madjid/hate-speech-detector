@@ -7,7 +7,6 @@ adding new data for future training, enhancing accuracy and adaptability.
 ## Features
 - **Real-time content moderation**: Automatically detects offensive language or hate speech in
 user-submitted text.
-- **Scalability**: Built with a microservices architecture to support multiple concurrent requests.
 - **User feedback system**: Allows users to provide feedback, helping improve the model's
 performance over time.
 - **Deep Learning Model**: Uses advanced NLP models, such as transformers, to classify text into
